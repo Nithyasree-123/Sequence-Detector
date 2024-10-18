@@ -93,7 +93,8 @@ endmodule
 ## OUTPUT:
 
 
-![Screenshot 2024-10-10 143056](https://github.com/user-attachments/assets/286baf9a-e7e5-4645-afb4-5850b177b9ef)
+![Screenshot 2024-10-10 143056](https://github.com/user-attachments/assets/388d0a87-213d-4276-8f11-b45fc8d92d31)
+
 
 
 ## VERILOG CODE FOR SEQUENCE DETECTOR USING MEALY FSM:
@@ -219,7 +220,8 @@ module mealy(clk,rst,inp,out);
 
 ## OUTPUT:
 
-![Screenshot 2024-10-17 110017](https://github.com/user-attachments/assets/ff57d9bb-0695-4cd4-9b9e-78fe0626276d)
+![Screenshot 2024-10-10 201803](https://github.com/user-attachments/assets/f164d957-e1ea-48f6-8ee4-d269701b3f68)
+
 
 ## TESTBENCH FOR SEQUENCE DETECTOR MOORE FSMs:
 
@@ -278,7 +280,7 @@ endmodule
 
 ## OUTPUT:
 
-![Screenshot 2024-10-10 144927](https://github.com/user-attachments/assets/91455445-b788-4d51-9f62-5881a5be18a7)
+![Screenshot 2024-10-10 144927](https://github.com/user-attachments/assets/2cfe4102-4174-4faf-8fc2-78379bda8d98)
 
 
 
@@ -342,7 +344,8 @@ endmodule
 ~~~
 
 ## OUTPUT:
-![Uploading Screenshot 2024-10-17 110017.png…]()
+![Screenshot 2024-10-17 110017](https://github.com/user-attachments/assets/e6dce428-4816-46c2-a097-b8748d82c097)
+
 
 
 ## CONCLUSION:
